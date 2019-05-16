@@ -8,19 +8,19 @@ index.js - 计算性能指标，并保存成xlsx
 
 |-- case_1556107032777
 
-  |-- screencap # 关键帧
+​        |-- screencap # 关键帧
 
-  |-- screenRaw # 原始帧
+​        |-- screenRaw # 原始帧
 
-  |-- screencap.json
+​        |-- screencap.json
 
-  |-- trace_api.json
+​        |-- trace_api.json
 
-  |-- trace_hardware.json
+​        |-- trace_hardware.json
 
-  |-- trace_native.json
+​        |-- trace_native.json
 
-  |-- trace_page.json
+​        |-- trace_page.json
 
 |-- case_1557834456374
 
