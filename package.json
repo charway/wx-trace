@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:charway/wx-trace.git",
-  "author": "guchengwei <guchengwei@meituan.com>",
+  "author": "charway <charway@qq.com>",
   "license": "MIT",
   "dependencies": {
     "babar": "^0.2.0",
