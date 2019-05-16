@@ -1,0 +1,14 @@
+{
+  "name": "wx-trace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:charway/wx-trace.git",
+  "author": "guchengwei <guchengwei@meituan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babar": "^0.2.0",
+    "exceljs": "^1.10.0",
+    "image-ssim": "^0.2.0",
+    "jpeg-js": "^0.3.5"
+  }
+}
